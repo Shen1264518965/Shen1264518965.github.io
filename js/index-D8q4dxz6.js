@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./index-Cub4thmZ.js";const r={},c={src:"https://www.wangeditor.com/demo/get-html.html",frameborder:"0",width:"99.9%",height:"99.5%"};function n(s,a){return o(),t("iframe",c)}const m=e(r,[["render",n]]);export{m as default};

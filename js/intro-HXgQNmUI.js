@@ -1,0 +1,1 @@
+import{c as e,d as s,t as n,f as o,l as a,o as c,S as r}from"./index-Cub4thmZ.js";const _={class:"intro"},i={class:"font-center"},l=a({name:"Intro"}),u=Object.assign(l,{setup(d){const{title:t}=r;return(f,p)=>(c(),e("div",_,[s("h2",i,n(o(t)),1)]))}});export{u as default};

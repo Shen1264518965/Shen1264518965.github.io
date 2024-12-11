@@ -1,0 +1,29 @@
+{
+  "焊接机系列": [
+    {
+      "id": "hjj-1",
+      "url": "https://picsum.photos/id/131/300/400",
+      "vUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "name": "焊接机系列1",
+      "content": "<p style=\"text-align: left;\"><span style=\"color: rgb(85, 85, 85); background-color: rgb(255, 255, 255); font-size: 14px;\">多轴打螺丝机</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">设备参数：</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">电 源：220V 50HZ/60HZ &nbsp;300W</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">尺 寸：L700＊W800＊H1500(单位MM)</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">效 率：900PCS/H</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">设备简介：</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">▷产品的定位不会划伤表面▷螺钉采用吹式送料</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">▷一个供螺钉机构对应一种尺寸规格的螺钉，不同规格的螺钉不能共用同一台供螺钉机（仅长度不同直径相同可在一这范围内通用）</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">▷主要动作说明：人工将产品通过放置载具，螺钉通过供螺丝机吹送到电批下方的夹持嘴内。操作员双手按下启动按钮，Z轴驱动锁紧部件下降，到位后电批启动将螺钉锁入产品中，Z 轴提起复位，人工将锁好产品取下进入下一循环。</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">▷安全对策：对驱动部件等回转体和其他危险场所设计的安全盖能够确保操作员工的人身安全。</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">▷控制规格：①机器可实现手动和自动运转。②通过按键进行不同功能的切换。③指示灯显示设备的运转情况。④设备异常时有蜂鸣器报警，并自动检测每一粒螺钉是否打到位。</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">▷停电对应：停电时、装置不会损坏，且不会出现损伤客户产品的情况。</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">▷锁付位置可在一定范围内调节，调节范围为:±50mm 左右，每款机型可方便客户通用于相同或相近螺丝及产品。</span></p><p><br></p>"
+    }
+  ],
+  "插盘机系列": [
+    {
+      "id":  "cpj-1",
+      "url": "https://picsum.photos/id/131/300/400",
+      "vUrl":  "https://www.w3schools.com/html/mov_bbb.mp4",
+      "name": "插盘机系列1",
+      "content": "插盘机系列1"
+    }
+  ],
+  "上料机系列": [
+    {
+      "id":  "slj-1",
+      "url": "https://picsum.photos/id/131/300/400",
+      "vUrl":  "https://www.w3schools.com/html/mov_bbb.mp4",
+      "name": "上料机系列1",
+      "content": "上料机系列1"
+    }
+  ]
+}

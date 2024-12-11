@@ -1,0 +1,63 @@
+{
+  "公司新闻": [
+    {
+      "id": "gsxw-1",
+      "title": "公司新闻1",
+      "content": "公司新闻1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    },
+    {
+      "id": "gsxw-2",
+      "title": "公司新闻1",
+      "content": "公司新闻1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    },
+    {
+      "id": "gsxw-3",
+      "title": "公司新闻1",
+      "content": "公司新闻1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    },
+    {
+      "id": "gsxw-4",
+      "title": "公司新闻1",
+      "content": "公司新闻1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    },
+    {
+      "id": "gsxw-5",
+      "title": "公司新闻1",
+      "content": "公司新闻1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    },
+    {
+      "id": "gsxw-6",
+      "title": "公司新闻1",
+      "content": "公司新闻1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    },
+    {
+      "id": "gsxw-7",
+      "title": "公司新闻1",
+      "content": "公司新闻1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    }
+  ],
+  "行业动态": [
+    {
+      "id": "hydt-1",
+      "title": "行业动态1",
+      "content": "行业动态1内容",
+      "time": "2022-01-01",
+      "url": "https://picsum.photos/id/131/250/150"
+    }
+  ],
+  "常见问题": []
+}

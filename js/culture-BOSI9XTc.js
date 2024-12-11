@@ -1,0 +1,1 @@
+import{_ as e,c,d as s,o as r}from"./index-Cub4thmZ.js";const o={},a={class:"culture"};function d(l,t){return r(),c("div",a,t[0]||(t[0]=[s("div",{class:"culture-left"}," 企业文化 ",-1),s("div",{class:"culture-right"},[s("img",{src:"https://picsum.photos/id/1/1920/750",alt:"",srcset:""})],-1)]))}const i=e(o,[["render",d],["__scopeId","data-v-560d076a"]]);export{i as default};
